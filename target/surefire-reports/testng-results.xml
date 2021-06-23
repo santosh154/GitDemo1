@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-15T18:46:35 IST" name="Suite" finished-at="2021-06-15T18:46:35 IST" duration-ms="90">
+    <groups>
+    </groups>
+    <test started-at="2021-06-15T18:46:35 IST" name="Test" finished-at="2021-06-15T18:46:35 IST" duration-ms="90">
+      <class name="qaclick.SeleniumTest">
+        <test-method signature="UiElementsselenium()[pri:0, instance:qaclick.SeleniumTest@e1de817]" started-at="2021-06-15T18:46:35 IST" name="UiElementsselenium" finished-at="2021-06-15T18:46:35 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UiElementsselenium -->
+        <test-method signature="seleniumtest()[pri:0, instance:qaclick.SeleniumTest@e1de817]" started-at="2021-06-15T18:46:35 IST" name="seleniumtest" finished-at="2021-06-15T18:46:35 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- seleniumtest -->
+      </class> <!-- qaclick.SeleniumTest -->
+      <class name="qaclick.RestApiTest">
+        <test-method signature="UiElementsrest()[pri:0, instance:qaclick.RestApiTest@7690781]" started-at="2021-06-15T18:46:35 IST" name="UiElementsrest" finished-at="2021-06-15T18:46:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UiElementsrest -->
+        <test-method signature="browserauthenrest()[pri:0, instance:qaclick.RestApiTest@7690781]" started-at="2021-06-15T18:46:35 IST" name="browserauthenrest" finished-at="2021-06-15T18:46:35 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserauthenrest -->
+      </class> <!-- qaclick.RestApiTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
