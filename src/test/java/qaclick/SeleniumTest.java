@@ -21,7 +21,13 @@ public class SeleniumTest {
 		public void UiElementsselenium3()
 		{
 			
-			System.out.println("I am printing selenium 3rd block");
+			System.out.println("I am printing selenium 3rd block");}
+			@Test
+			public void UiElementsselenium4()
+			{
+				
+				System.out.println("I am printing selenium 4th block");
+
 
 }
 }
